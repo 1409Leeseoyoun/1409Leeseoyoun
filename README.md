@@ -30,5 +30,5 @@ React와 TypeScript를 공부하며, 더 나은 코드와 UI를 만들고 있습
 ---
 
 ## 📬 연락처
-- GitHub: [https://github.com/your_github_id](https://github.com/your_github_id)
-- 이메일: your_email@example.com
+- GitHub: https://github.com/1409Leeseoyoun/1409Leeseoyoun
+- 이메일: seoyoun8879@gmail.com
